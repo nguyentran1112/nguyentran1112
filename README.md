@@ -5,17 +5,24 @@
 - 🌱 I’m currently learning AI.
 - 📫 How to reach me: tranchinguyen.vie@gmail.com
 - 💬 Ask me about Flutter, React Native, React Js, Node.js, IoT...
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyentran1112&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentran1112&layout=compact&theme=tokyonight" height="180" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nguyentran1112&theme=matrix&margin-w=15&no-bg=true" />
+</p>
 
+<h3 align="center">🚀 Tech Stack</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mongodb,ts,js,react,python,arduino,raspberrypi&theme=light" />
+</p>
 
-### 🛠️ Tech Stack
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+## 🤝 Let's connect
 
-
-### 🌍 Find me around the web
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
-- 📷 [Instagram](https://instagram.com/yourname)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat&logo=github&logoColor=white)](https://yourwebsite.com)
